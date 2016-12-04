@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocitoff
+title: In production...
 thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+short-description: Project in production
 
 ---
 
