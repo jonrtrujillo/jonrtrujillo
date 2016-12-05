@@ -2,7 +2,7 @@
 layout: post
 title: Blocjams
 thumbnail-path: "img/blocflix.png"
-short-description: Blocjams is a Spotify replica for listening to music online.
+short-description: Blocjams is a music player website.
 
 ---
 
